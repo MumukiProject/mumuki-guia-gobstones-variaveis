@@ -1,0 +1,19 @@
+---
+tags: []
+layout: input_bottom
+editor: single_choice
+type: problem
+extra_visible: false
+language: text
+manual_evaluation: false
+choices:
+- value: Vermelho
+  checked: false
+- value: Verde
+  checked: true
+- value: corzinha
+  checked: false
+- value: 'True'
+  checked: false
+- value: 'False'
+  checked: false
