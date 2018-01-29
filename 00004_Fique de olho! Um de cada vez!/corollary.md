@@ -1,0 +1,1 @@
+Conclusão: uma **variável** sempre denota **o último valor** que foi designado para ela.
