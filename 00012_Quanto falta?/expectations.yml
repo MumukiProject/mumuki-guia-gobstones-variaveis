@@ -1,0 +1,6 @@
+---
+expectations:
+- binding: "*"
+  inspection: DeclaresFunction:quantoFaltaAte
+- binding: quantoFaltaAte
+  inspection: UsesWhile

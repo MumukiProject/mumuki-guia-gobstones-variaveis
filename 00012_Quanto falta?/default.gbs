@@ -1,0 +1,9 @@
+function quantoFaltaAte(direcao) {
+  distancia := 0
+
+  while (/* complete aqui... */) {
+    /* complete aqui... */
+  }
+
+  /* complete aqui... */
+}
