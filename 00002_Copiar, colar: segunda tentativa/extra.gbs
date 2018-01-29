@@ -1,0 +1,5 @@
+procedure ColocarN(quantidade, cor) {
+  repeat (quantidade) {
+    Colocar(cor)
+  }
+}

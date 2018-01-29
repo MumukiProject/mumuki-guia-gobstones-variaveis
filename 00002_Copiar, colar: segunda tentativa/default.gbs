@@ -1,0 +1,5 @@
+procedure CopiarVerdesAoNorte() {
+  quantidadePedrasNaCelulaInicial := /* completar... */
+  Mover(Norte)
+  ColocarN(quantidadePedrasNaCelulaInicial, Verde)
+}
