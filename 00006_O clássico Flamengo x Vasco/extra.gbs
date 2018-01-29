@@ -1,0 +1,7 @@
+function golsVasco() {
+  return (nroPedras(Preto))
+}
+
+function golsFlamengo() {
+  return (nroPedras(Vermelho))
+}

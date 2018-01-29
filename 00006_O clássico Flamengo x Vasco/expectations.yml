@@ -1,0 +1,8 @@
+---
+expectations:
+- binding: "*"
+  inspection: DeclaresFunction:quemGanhou
+- binding: quemGanhou
+  inspection: Uses:golsVasco
+- binding: quemGanhou
+  inspection: Uses:golsFlamengo
