@@ -1,0 +1,3 @@
+_Ehhhh, acho que não entendi nada._ :confused:
+<br>
+Ok, não te julgamos, para nós também parece uma solução difícil de entender. Vamos tentar melhorar...

@@ -14,6 +14,7 @@ procedure CopiarVerdesAoNorte() {
   Mover(Norte)
   ColocarN(pedrasVerdesAoSul(), Verde)
 }
+
 function pedrasVerdesAoSul() {
   Mover(Sul)
   return (nroPedras(Verde))
