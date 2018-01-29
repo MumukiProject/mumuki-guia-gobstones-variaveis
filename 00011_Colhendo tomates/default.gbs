@@ -1,0 +1,9 @@
+procedure ColherHorta() {
+  tomatesColhidos := 0
+
+  repeat (3) {
+    /* complete aqui... */
+  }
+
+  /* complete aqui... */
+}

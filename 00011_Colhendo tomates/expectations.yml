@@ -1,0 +1,8 @@
+---
+expectations:
+- binding: ColherHorta
+  inspection: Uses:ColherPlanta
+- binding: ColherHorta
+  inspection: Uses:DeixarTomates
+- binding: ColherHorta
+  inspection: Uses:quantidadeTomates

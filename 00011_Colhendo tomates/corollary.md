@@ -1,0 +1,1 @@
+As variáveis se tornam especialmente interessantes e poderosas quando combinamos elas com **trajetos**, porque nos permitem realizar operações nas quais intervêm muitas células.

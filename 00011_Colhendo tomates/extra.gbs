@@ -1,0 +1,31 @@
+procedure ColherPlanta() {
+  RetirarN(quantidadeTomates(), Vermelho)
+}
+
+procedure DeixarTomates(quantidade) {
+  ColocarN(quantidade, Vermelho)
+}
+
+function quantidadeTomates() {
+  return (nroPedras(Vermelho))
+}
+
+// Auxiliares
+
+procedure MoverN(quantidade, direcao) {
+  repeat(quantidade) {
+    Mover(direcao)
+  }
+}
+
+procedure RetirarN(quantidade, cor) {
+  repeat(quantidade) {
+    Retirar(cor)
+  }
+}
+
+procedure ColocarN(quantidade, cor) {
+  repeat(quantidade) {
+    Colocar(cor)
+  }
+}
