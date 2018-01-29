@@ -1,0 +1,6 @@
+subject: boomBoomKid
+
+show_initial_board: false
+
+examples:
+ - error: unassigned_variable
