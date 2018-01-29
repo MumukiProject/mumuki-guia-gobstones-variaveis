@@ -1,0 +1,1 @@
+Se não conseguir lembre que o lápis e o papel são bons aliados: escreva a expressão, os valores das variáveis, substitua e faça as contas. :memo:
