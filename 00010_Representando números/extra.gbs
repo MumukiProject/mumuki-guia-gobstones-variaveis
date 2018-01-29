@@ -1,0 +1,3 @@
+function algarismo() {
+  return (nroPedras(Vermelho))
+}

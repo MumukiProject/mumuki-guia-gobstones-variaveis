@@ -1,0 +1,20 @@
+subject: numero
+
+examples:
+ - initial_board: |
+     GBB/1.0
+     size 3 1
+     cell 0 0 Rojo 1
+     cell 1 0 Rojo 3
+     cell 2 0 Rojo 2
+     head 0 0
+   return: '132'
+
+ - initial_board: |
+     GBB/1.0
+     size 3 1
+     cell 0 0 Rojo 6
+     cell 1 0 Rojo 7
+     cell 2 0 Rojo 8
+     head 0 0
+   return: '678'

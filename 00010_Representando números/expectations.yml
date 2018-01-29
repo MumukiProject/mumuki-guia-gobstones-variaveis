@@ -1,0 +1,6 @@
+---
+expectations:
+- binding: numero
+  inspection: DeclaresVariable
+- binding: numero
+  inspection: Uses:algarismo
