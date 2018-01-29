@@ -1,0 +1,8 @@
+---
+expectations:
+- binding: maximaquantidadeDePedras
+  inspection: DeclaresVariable
+- binding: maximaquantidadeDePedras
+  inspection: Uses:maximo
+- binding: maximaquantidadeDePedras
+  inspection: Uses:nroPedrasTotal

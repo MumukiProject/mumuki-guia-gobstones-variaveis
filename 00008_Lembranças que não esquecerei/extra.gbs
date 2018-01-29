@@ -1,0 +1,13 @@
+function maximo(x, y) {
+  if (x > y) {
+    maior := x
+  } else {
+    maior := y
+  }
+  
+  return (maior)
+}
+
+function nroPedrasTotal () {
+  return (nroPedras (Azul) + nroPedras (Preto) + nroPedras (Vermelho) + nroPedras (Verde))
+}

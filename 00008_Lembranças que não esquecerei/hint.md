@@ -1,0 +1,1 @@
+Uma vez que você sai da célula atual, já não poderá saber quantas pedras havia, deveria buscar a forma de _lembrar_ antes de sair dela. Muito parecido ao que fizemos para copiar as pedras, né? :wink:
