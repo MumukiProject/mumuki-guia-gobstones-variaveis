@@ -1,0 +1,6 @@
+---
+expectations:
+- binding: "*"
+  inspection: DeclaresComputationWithArity2:maximo
+- binding: "*"
+  inspection: DeclaresFunction:maximo

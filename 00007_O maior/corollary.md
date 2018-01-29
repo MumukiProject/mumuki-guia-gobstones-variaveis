@@ -1,0 +1,1 @@
+Já aprendemos o suficiente sobre usar variáveis com `if`, vamos passar para outros usos mais interessantes.
