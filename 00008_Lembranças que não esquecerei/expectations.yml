@@ -1,8 +1,8 @@
 ---
 expectations:
-- binding: maximaquantidadeDePedras
+- binding: maximaQuantidadeDePedras
   inspection: DeclaresVariable
-- binding: maximaquantidadeDePedras
+- binding: maximaQuantidadeDePedras
   inspection: Uses:maximo
-- binding: maximaquantidadeDePedras
+- binding: maximaQuantidadeDePedras
   inspection: Uses:nroPedrasTotal
