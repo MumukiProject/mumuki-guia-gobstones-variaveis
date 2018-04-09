@@ -1,7 +1,7 @@
 ---
 expectations:
 - binding: maximaQuantidadeDePedras
-  inspection: DeclaresVariable
+  inspection: Assigns
 - binding: maximaQuantidadeDePedras
   inspection: Uses:maximo
 - binding: maximaQuantidadeDePedras
