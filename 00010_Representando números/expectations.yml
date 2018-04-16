@@ -1,6 +1,6 @@
 ---
 expectations:
 - binding: numero
-  inspection: Assigns:*
+  inspection: Assigns
 - binding: numero
   inspection: Uses:algarismo
