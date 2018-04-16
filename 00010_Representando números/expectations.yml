@@ -1,6 +1,6 @@
 ---
 expectations:
 - binding: numero
-  inspection: DeclaresVariable
+  inspection: Assigns:undefined
 - binding: numero
   inspection: Uses:algarismo
